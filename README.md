@@ -80,7 +80,3 @@ Generating inspiration for design projects.
 This project is released under the MIT License — you are free to use, modify, and distribute it.
 
 
-This `.md` will render perfectly in **GitHub** without any HTML or unsupported tags.  
-
-If you want, I can **extract a few images from your `artistics-math.ipynb`** and embed them directly into this README so your repo instantly looks impressive when opened. That will make it stand out.
-
